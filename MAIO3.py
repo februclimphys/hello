@@ -216,3 +216,5 @@ print(arma_res_ts1.summary())
 #results_AR = model.fit(disp=-1)  
 #plt.plot(ts1[:,0])
 #plt.plot(results_AR.fittedvalues, color='red')
+
+testing
